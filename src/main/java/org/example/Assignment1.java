@@ -1,3 +1,5 @@
+package org.example;
+
 class Number {
     public int i;
 }
